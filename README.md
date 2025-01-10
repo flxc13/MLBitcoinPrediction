@@ -1,4 +1,3 @@
-```markdown
 # BTC/USDT Price Movement Prediction
 
 This repository contains code for predicting BTC/USDT price movement using historical OHLCV (Open, High, Low, Close, Volume) data fetched from Binance using the `ccxt` library. The prediction model is built using a Support Vector Machine (SVM) classifier with hyperparameter tuning and various technical indicators.
